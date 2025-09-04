@@ -1,0 +1,16 @@
+Bom dia Brasil, este é um exemplo mais longo para testar o funcionamento do nosso programa de auto typer em Java. 
+A ideia e que cada caractere seja lido de um arquivo de texto e digitado na tela como se fosse uma pessoa escrevendo em tempo real. 
+Legal, ne
+
+Claro que existem alguns desafios. Por exemplo, o Java nao tem suporte tão simples para mapear todos os simbolos, e as vezes alguns caracteres especiais nao aparecem da forma esperada. 
+Ainda assim, funciona muito bem para letras, numeros e pontuações mais comuns.
+
+Outra observaçao importante e que, enquanto o programa digita, você pode abrir o bloco de notas, um navegador ou mesmo um editor de codigo e assistir os caracteres surgindo um por um, simulando a digitacao. 
+Isso pode ser útil em algumas automacoes, demonstracoes ou ate para se divertir um pouco.
+
+Por outro lado, percebi que em Python esse tipo de coisa eh muito mais pratico, porque existem bibliotecas prontas para simular teclas e eventos do sistema. 
+Mesmo assim, como o objetivo aqui e aprender Java, o desafio e interessante e ajuda a entender como a classe Robot funciona.
+
+Enfim, este e apenas um teste, mas ja da para perceber como o autotyper consegue transformar um simples arquivo de texto em uma digitação simulada.
+
+Fim do exemplo. :)
